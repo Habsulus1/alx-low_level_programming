@@ -2,7 +2,6 @@
  * File: 0-positive_or_negative.c
  * Auth: Habsulus
  */
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
