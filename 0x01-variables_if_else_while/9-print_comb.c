@@ -3,7 +3,6 @@
  * Auth: Habsulus
  */
 #include <stdio.h>
-
 /**
  * main - Prints all possible combinations of single-digit numbers.
  *
@@ -19,7 +18,7 @@ int main(void)
 		if (num == 9)
 			continue;
 		
-		putchar(',');
+		putchar(' ');
 		putchar(' ');
 	}
 
