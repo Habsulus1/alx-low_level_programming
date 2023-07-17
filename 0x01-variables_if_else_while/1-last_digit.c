@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth: Habsulus1 
+ * Auth: Habsulus
  */
 
 #include <stdlib.h>
